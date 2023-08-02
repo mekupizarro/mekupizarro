@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mekupizarro
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning Machine Learning and Data Anatalytics
+- 💞️ I’m looking to collaborate on a new project with challenges to continue learning
+- 📫 How to reach me mekupizarro@gmail.com
